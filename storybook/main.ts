@@ -6,7 +6,8 @@ const config: StorybookConfig = {
      '../src/app/my-component/alert-component.stories.ts',
      '../src/app/my-component/badge-component.stories.ts',
      '../src/app/my-component/card-component.stories.ts',
-     '../src/app/my-component/tooltip-component.stories.ts'
+     '../src/app/my-component/tooltip-component.stories.ts',
+     '../src/app/my-component/table-component.stories.ts'
 ],
   addons: [
     "@storybook/addon-links",
